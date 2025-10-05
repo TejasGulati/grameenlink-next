@@ -39,7 +39,7 @@ function BlockchainContent() {
               <LinkIcon className="w-6 h-6 text-blue-600 mb-3" />
               <h3 className="text-lg font-bold text-gray-900 mb-2">Full Traceability</h3>
               <p className="text-sm text-gray-700">
-                Track products from origin to delivery. Each stakeholder's action is logged, 
+                Track products from origin to delivery. Each stakeholders action is logged, 
                 creating complete supply chain visibility.
               </p>
             </div>
